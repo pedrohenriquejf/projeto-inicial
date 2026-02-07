@@ -1,0 +1,3 @@
+Este é um arquivo que serve para que, ao commitar no git, este ignore determinados arquivos e pastas, normalmente, arquivos e pastas desnecessários, aqueles que não há necessidade de subir ao repositório remoto. 
+
+logs.txt

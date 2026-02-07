@@ -1,0 +1,1 @@
+Este projeto tem como o intuito desenvolver a aprendizagem teórica e prática do curso Git e GitHub do curso Alura.
